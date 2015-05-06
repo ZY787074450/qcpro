@@ -12,7 +12,6 @@
 	padding-bottom: 0px;
 }
 td{
-	margin-top: 5px;
 	height: 30px;
 }
 .gjxx{
@@ -31,6 +30,8 @@ td{
 .title{
 	font-size: 15px;
     font-weight: bold;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 .span7{
 	margin-top: 30px;
@@ -38,12 +39,15 @@ td{
 	padding-left: 0;
 }
 #dbhr{
-	padding-top: 70px;
+	padding-top: 90px;
 }
 .green_1{
 	font-size: 18px;
 	font-weight: bolder;
 	text-align: justify;
+}
+.left{
+	padding-left: 40px;
 }
 .green_2{
 	font-size: 18px;
@@ -59,5 +63,13 @@ td{
 	font-size: 18px;
 	font-weight: bolder;
 }
-
-
+.div_1{
+	width: 110px;
+	height:80px;
+	float: left;
+	padding-right: 20px;
+}
+.div_2{
+	width: 500px;
+	height: 400px;
+}
