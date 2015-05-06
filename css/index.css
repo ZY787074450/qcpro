@@ -1,8 +1,63 @@
 @CHARSET "UTF-8";
+*{
+	font-family: '微软雅黑';
+}
 .addrow{
 	margin-top: 10px;
 }
 .hr{
 	color: black;
 	display: block;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
 }
+td{
+	margin-top: 5px;
+	height: 30px;
+}
+.gjxx{
+	font-size: 10px;
+	padding-left: 100px;
+}
+.red_1{
+	font-size: 18px;
+	font-weight: bolder;
+}
+.red_2{
+	font-size: 18px;
+	font-weight: bolder;
+	color: red;
+}
+.title{
+	font-size: 15px;
+    font-weight: bold;
+}
+.span7{
+	margin-top: 30px;
+	margin-left: 0;
+	padding-left: 0;
+}
+#dbhr{
+	padding-top: 70px;
+}
+.green_1{
+	font-size: 18px;
+	font-weight: bolder;
+	text-align: justify;
+}
+.green_2{
+	font-size: 18px;
+	font-weight: bolder;
+	color: green;
+}
+.jgmxzc{
+	font-size: 15px;
+	font-weight: bold;
+}
+.yelow{
+	color: blue;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+
