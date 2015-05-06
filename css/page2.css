@@ -27,6 +27,11 @@ td{
 	font-weight: bolder;
 	color: red;
 }
+.b_red_2{
+	font-size: 15px;
+	font-weight: bolder;
+	color: red;
+}
 .title{
 	font-size: 15px;
     font-weight: bold;
@@ -39,7 +44,7 @@ td{
 	padding-left: 0;
 }
 #dbhr{
-	padding-top: 90px;
+	padding-top: 35px;
 }
 .green_1{
 	font-size: 18px;
@@ -54,13 +59,18 @@ td{
 	font-weight: bolder;
 	color: green;
 }
+.b_green_2{
+	font-size: 15px;
+	font-weight: bolder;
+	color: green;
+}
 .jgmxzc{
 	font-size: 15px;
 	font-weight: bold;
 }
 .yelow{
 	color: blue;
-	font-size: 18px;
+	font-size: 15px;
 	font-weight: bolder;
 }
 .div_1{
