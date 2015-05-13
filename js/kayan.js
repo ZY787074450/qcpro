@@ -7,4 +7,5 @@
  * tab页转换
  */
 function TableChange(arry){
+	var str = new Math();
 }
